@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dctr-antispam.js": "^0.1.1",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3",
+    "wio.db": "^4.0.15"
+  }
+}
